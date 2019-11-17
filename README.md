@@ -1,2 +1,3 @@
 # Heat_transfer_project
-2D Simulation of Heat Transfer
+
+In this project I used MATLAB to simulate heat transfer of a 2D fin.
